@@ -1,7 +1,7 @@
-Grunt Resource Foundation
+Angular Grunt Foundation
 =================================
 
-Frontend resource README for Grunt Resource Foundation. 
+Frontend resource README for Angular Grunt Foundation. 
 
 Symbol explanations: 
 	Bash script: ``Some code``
